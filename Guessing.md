@@ -38,7 +38,7 @@ flowchart TD
     PlayAgainPrompt ---|No|End
 ```
 
-#### Documentation:
+## Documentation:
 
 **GenerateRandom**: Generates value between 1 and 10
 
