@@ -14,6 +14,7 @@ I am a 23 year old computer science student with an interest in almost anything 
 - JavaScript
 - Rust
 - HTML/CSS
+- SQL, Postgres
 
 I am still learning the following languages:
 - C
