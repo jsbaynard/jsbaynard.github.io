@@ -1,6 +1,7 @@
 ### Joseph S. Baynard IV
 Computer Science Student
 jsbaynard@my.waketech.com
+
 *This is not my main account, but I will likely migrate my polished projects to this account in the future.*
 
 # About Me
